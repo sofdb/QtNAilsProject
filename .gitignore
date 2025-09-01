@@ -34,7 +34,6 @@ lib/
 # Makefiles
 Makefile*
 *.moc
-*.qrc
 *.rcc
 *.gch
 

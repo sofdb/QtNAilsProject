@@ -1,7 +1,7 @@
 [
     {
         "color": "RossoCiliegia",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/RossoCiliegia.jpg",
+        "image": "./images/RossoCiliegia.jpg",
         "name": "SmaltoRossoCiliegia",
         "polimerization_time": 60,
         "size": 15,
@@ -9,7 +9,7 @@
     },
     {
         "color": "BluNotte",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/BluNotte.jpg",
+        "image": "./images/BluNotte.jpg",
         "name": "SmaltoBluNotte",
         "polimerization_time": 60,
         "size": 15,
@@ -17,7 +17,7 @@
     },
     {
         "color": "ViolaLavanda",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/ViolaLavanda.jpg",
+        "image": "./images/ViolaLavanda.jpg",
         "name": "SmaltoViolaLavanda",
         "polimerization_time": 60,
         "size": 15,
@@ -25,7 +25,7 @@
     },
     {
         "color": "RosaConfetto",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/RosaConfetto.jpg",
+        "image": "./images/RosaConfetto.jpg",
         "name": "SmaltoRosaConfetto",
         "polimerization_time": 60,
         "size": 15,
@@ -33,7 +33,7 @@
     },
     {
         "color": "BiancoGhiaccio",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/BiancoGhiaccio.jpg",
+        "image": "./images/BiancoGhiaccio.jpg",
         "name": "SmaltoBiancoGhiaccio",
         "polimerization_time": 60,
         "size": 15,
@@ -43,7 +43,7 @@
         "elasticity": "Media",
         "finish": "Lucido",
         "grip": "Media",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/TopBase.jpg",
+        "image": "./images/TopBase.jpg",
         "name": "TopBaseLucido",
         "polimerization_time": 60,
         "size": 15,
@@ -54,7 +54,7 @@
         "elasticity": "Alta",
         "finish": "Opaco",
         "grip": "Alta",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/TopBase.jpg",
+        "image": "./images/TopBase.jpg",
         "name": "TopBaseOpaco",
         "polimerization_time": 60,
         "size": 15,
@@ -65,7 +65,7 @@
         "elasticity": "Bassa",
         "finish": "Lucido",
         "grip": "Bassa",
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/TopBase.jpg",
+        "image": "./images/TopBase.jpg",
         "name": "TopBaseNaturale",
         "polimerization_time": 60,
         "size": 15,
@@ -75,7 +75,7 @@
     {
         "coverage": "Bassa",
         "durability": 3,
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/Gel1.jpg",
+        "image": "./images/Gel1.jpg",
         "name": "GelCostruttore1",
         "polimerization_time": 60,
         "size": 15,
@@ -86,7 +86,7 @@
     {
         "coverage": "Alta",
         "durability": 5,
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/Gel2.jpg",
+        "image": "./images/Gel2.jpg",
         "name": "GelCostruttore2",
         "polimerization_time": 60,
         "size": 15,
@@ -97,7 +97,7 @@
     {
         "coverage": "Media",
         "durability": 4,
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/Gel3.jpg",
+        "image": "./images/Gel3.jpg",
         "name": "GelCostruttore3",
         "polimerization_time": 60,
         "size": 15,
@@ -108,7 +108,7 @@
     {
         "coverage": "Alta",
         "durability": 4,
-        "image": "C:/Users/sofia/OneDrive/Desktop/QtNailsProject/images/Gel4.jpg",
+        "image": "./images/Gel4.jpg",
         "name": "GelCostruttore4",
         "polimerization_time": 60,
         "size": 15,
