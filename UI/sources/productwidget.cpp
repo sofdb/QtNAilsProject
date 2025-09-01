@@ -1,4 +1,5 @@
 #include "UI/headers/productwidget.h"
+
 #include <QVBoxLayout>
 #include <QHBoxLayout>
 

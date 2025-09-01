@@ -1,5 +1,6 @@
 #include "UI/headers/infopanel.h"
-#include"UI/headers/nailsproductinfovisitor.h"
+#include "UI/headers/nailsproductinfovisitor.h"
+
 #include <QVBoxLayout>
 #include <QString>
 

@@ -1,12 +1,12 @@
 #include "UI/headers/catalogviewer.h"
 #include "UI/headers/modificadialog.h"
 #include "Json/headers/jsonhandler.h"
-#include <QMessageBox>
-#include"logic/headers/scala3converters.h"
+#include "logic/headers/scala3converters.h"
 #include "UI/headers/productfilters.h"
 
 #include <QApplication>
 #include <QFile>
+#include <QMessageBox>
 
 CatalogViewer::CatalogViewer(QWidget* parent) :
     QWidget(parent)

@@ -3,6 +3,7 @@
 
 #include "logic/headers/nailsproduct.h"
 #include "logic/headers/catalogo.h"
+
 #include <QString>
 #include <QComboBox>
 #include <QLineEdit>

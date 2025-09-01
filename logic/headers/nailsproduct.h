@@ -1,10 +1,10 @@
 #ifndef NAILSPRODUCT_H
 #define NAILSPRODUCT_H
 
-#include"UI/headers/nailsproductvisitor.h"
+#include "UI/headers/nailsproductvisitor.h"
 
 #include <string>
-#include<vector>
+#include <vector>
 using std::string;
 using std::vector;
 

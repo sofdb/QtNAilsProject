@@ -2,6 +2,7 @@
 #define NAILSPRODUCTINFOVISITOR_H
 
 #include <QWidget>
+
 #include "UI/headers/nailsproductvisitor.h"
 
 class NailsProductInfoVisitor : public NailsProductVisitor

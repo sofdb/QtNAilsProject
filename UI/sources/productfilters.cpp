@@ -1,5 +1,5 @@
 #include "UI/headers/productfilters.h"
-#include "logic/headers/Scala3Converters.h"
+#include "logic/headers/scala3converters.h"
 
 QList<NailsProduct*> ProductFilters::filtra(
     const Catalogo& catalogo,

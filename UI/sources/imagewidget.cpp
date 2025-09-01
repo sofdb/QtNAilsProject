@@ -1,4 +1,5 @@
 #include "UI/headers/imagewidget.h"
+
 #include <QVBoxLayout>
 #include <QPixmap>
 

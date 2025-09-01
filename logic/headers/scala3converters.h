@@ -1,7 +1,7 @@
 #ifndef SCALA3CONVERTERS_H
 #define SCALA3CONVERTERS_H
 
-#include "logic/headers/Scala3.h"
+#include "logic/headers/scala3.h"
 
 class Scala3Converters
 {

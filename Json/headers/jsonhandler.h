@@ -1,10 +1,11 @@
 #ifndef JSONHANDLER_H
 #define JSONHANDLER_H
 
+#include "logic/headers/catalogo.h"
+
 #include <QString>
 #include <QJsonArray>
 #include <QJsonDocument>
-#include "logic/headers/catalogo.h"
 
 class JsonHandler
 {

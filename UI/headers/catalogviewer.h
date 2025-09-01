@@ -1,6 +1,10 @@
 #ifndef CATALOGVIEWER_H
 #define CATALOGVIEWER_H
 
+#include "logic/headers/nailsproduct.h"
+#include "UI/headers/productwidget.h"
+#include "logic/headers/catalogo.h"
+
 #include <QWidget>
 #include <QListWidget>
 #include <QLineEdit>
@@ -9,9 +13,6 @@
 #include <QHBoxLayout>
 #include <QComboBox>
 #include <QFormLayout>
-#include "logic/headers/nailsproduct.h"
-#include "UI/headers/productwidget.h"
-#include "logic/headers/catalogo.h"
 
 class CatalogViewer : public QWidget {
     Q_OBJECT

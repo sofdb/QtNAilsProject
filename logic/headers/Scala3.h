@@ -1,7 +1,7 @@
 #ifndef SCALA3_H
 #define SCALA3_H
 
-#include<string>
+#include <string>
 using std::string;
 
 enum class Scala3 {

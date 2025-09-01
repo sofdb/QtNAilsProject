@@ -1,8 +1,8 @@
 #ifndef TOPBASE_H
 #define TOPBASE_H
 
-#include"logic/headers/Scala3.h"
-#include"logic/headers/nailsproduct.h"
+#include "logic/headers/scala3.h"
+#include "logic/headers/nailsproduct.h"
 using std::string;
 
 enum class TopBaseType{

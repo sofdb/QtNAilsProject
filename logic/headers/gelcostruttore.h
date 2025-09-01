@@ -1,8 +1,8 @@
 #ifndef GELCOSTRUTTORE_H
 #define GELCOSTRUTTORE_H
 
-#include"logic/headers/nailsproduct.h"
-#include"logic/headers/Scala3.h"
+#include "logic/headers/nailsproduct.h"
+#include "logic/headers/scala3.h"
 using std::string;
 
 class GelCostruttore : public NailsProduct

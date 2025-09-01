@@ -3,6 +3,7 @@
 
 #include <QWidget>
 #include <QPushButton>
+
 #include "logic/headers/nailsproduct.h"
 #include "UI/headers/infopanel.h"
 #include "UI/headers/imagewidget.h"

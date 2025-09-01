@@ -1,13 +1,13 @@
 #ifndef MODIFICADIALOG_H
 #define MODIFICADIALOG_H
 
+#include "logic/headers/nailsproduct.h"
+
 #include <QDialog>
 #include <QLineEdit>
 #include <QComboBox>
 #include <QFormLayout>
 #include <QPushButton>
-#include "logic/headers/nailsproduct.h"
-
 #include <QDialog>
 
 class ModificaDialog : public QDialog {

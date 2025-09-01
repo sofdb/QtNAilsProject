@@ -5,7 +5,7 @@
 #include "logic/headers/smaltosemip.h"
 #include "logic/headers/topbase.h"
 #include "logic/headers/gelcostruttore.h"
-#include "logic/headers/Scala3.h"
+#include "logic/headers/scala3.h"
 #include "logic/headers/scala3converters.h"
 
 #include <QFile>

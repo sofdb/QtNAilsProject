@@ -2,6 +2,7 @@
 #define JSONVISITOR_H
 
 #include "UI/headers/nailsproductvisitor.h"
+
 #include <QJsonObject>
 
 class JsonVisitor : public NailsProductVisitor

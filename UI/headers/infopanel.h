@@ -1,9 +1,9 @@
 #ifndef INFOPANEL_H
 #define INFOPANEL_H
 
-#include"logic/headers/nailsproduct.h"
+#include "logic/headers/nailsproduct.h"
 
-#include<QLabel>
+#include <QLabel>
 
 
 class InfoPanel : public QWidget // informazioni generali di NailsProduct
