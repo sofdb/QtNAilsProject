@@ -1,7 +1,7 @@
 #ifndef PRODUCTFILTERS_H
 #define PRODUCTFILTERS_H
 
-#include "logic/headers/NailsProduct.h"
+#include "logic/headers/nailsproduct.h"
 #include "logic/headers/catalogo.h"
 #include <QString>
 #include <QComboBox>
