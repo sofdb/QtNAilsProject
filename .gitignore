@@ -1,0 +1,69 @@
+# Qt build artifacts
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+*.app
+*.a
+*.lib
+*.ncb
+*.sdf
+*.suo
+*.pdb
+*.idb
+*.ilk
+
+# Qt Creator specific
+*.pro.user
+*.pro.user.*
+*.qmake.stash
+*.autosave
+
+# Build folders
+build/
+debug/
+release/
+x64/
+x86/
+out/
+bin/
+lib/
+
+# Makefiles
+Makefile*
+*.moc
+*.qrc
+*.rcc
+*.gch
+
+# Compiled UI and resource files
+ui_*.h
+qrc_*.cpp
+moc_*.cpp
+moc_*.o
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# IDEs
+.vscode/
+.idea/
+*.code-workspace
+
+# Backup files
+*~
+*.old
+*.orig
+
+# JSON/XML examples (optional: keep only if needed)
+# catalogo.json
+# *.xml
